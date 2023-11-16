@@ -1,4 +1,4 @@
-# Impact of Internet Access of Final Grade
+# Impact of Internet Access on Final Grade
 
 A study of how home internet access impacts a student's final grade. 
 
